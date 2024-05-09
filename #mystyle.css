@@ -1,0 +1,15 @@
+*{
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.myclass{
+    font-size: medium;
+    color: darkred;
+    text-decoration: dotted;
+}
+.My{
+    font-size: small;
+    color: black;
+    text-decoration: solid;
+}
